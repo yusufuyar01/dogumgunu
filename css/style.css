@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(153, 153, 244);
+
+ }
+
+hr{
+    border-style:  none;
+    border-top-style:  dotted ;
+    border-width: 3px;
+
+}
+h1{
+    color: red;
+
+
+}
+h4{
+    color:  green;
