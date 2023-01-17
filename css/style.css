@@ -1,0 +1,27 @@
+body{
+    background-color: pink;
+    margin: 80px;
+   
+    
+    ;
+ }
+div{
+    background-color: aliceblue;
+    border: solid 10px; color: rgb(253, 129, 150);
+    width: 300px;
+    height: 300px;
+
+}
+
+h1{
+    color: red;
+    
+
+}
+h4{
+    color:  green;
+    margin: 0;
+}
+a{
+    margin-left: 130px;
+}
